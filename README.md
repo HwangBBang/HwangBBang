@@ -1,5 +1,10 @@
-### Hwang ByeoungHun
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+### Hwang ByeoungHun 
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Mail&logoColor=white">
+
+### 🔥Stack🔥
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+
 
 
 
