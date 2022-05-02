@@ -2,7 +2,7 @@
 ### Hwang ByeoungHun    
 <a href = "https://www.notion.so/2-804f85fc028e4319b4a8896434a0e20f" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a>
 <a href = "https://www.instagram.com/chum_zz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
-<a herf = "h1009218@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Mail&logoColor=white"> </a>
+<a herf = "mailto:h1009218@hufs.ac.kr"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Mail&logoColor=white"> </a>
 
 [![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang)](https://github.com/HwangBBang/github-readme-stats)
 
