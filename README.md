@@ -4,6 +4,8 @@
 <a href = "https://www.instagram.com/chum_zz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
 <a herf = "mailto:h1009218@hufs.ac.kr"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Mail&logoColor=white"> </a>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=appstore.svg&icon_color=%23FFFFFF&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang)](https://github.com/HwangBBang/github-readme-stats)
 
 
