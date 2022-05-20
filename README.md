@@ -4,7 +4,8 @@
  
  <a href = "https://www.notion.so/2-804f85fc028e4319b4a8896434a0e20f" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a><a href = "https://blog.naver.com/h1009218" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> </a><a href = "https://www.instagram.com/chum_zz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a> 
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+ [![Solved.ac
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/h1009218)
  
  
@@ -19,7 +20,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 
 > [Python_Practice_2022](https://github.com/HwangBBang/Python_Practice_2022)  
 > [Mini_Project](https://github.com/HwangBBang/Mini_Project)  
-> [Team-KKLHY](https://github.com/HwangBBang/team-KKLHY)
+> [Team-KKLHY](https://github.com/HwangBBang/team-KKLHY)  
 > [BaekJoon](https://github.com/HwangBBang/BaekJoon)
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
