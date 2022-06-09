@@ -14,7 +14,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 ### Watch my contribution graph get eaten by the snake 🐍
 <!-- platane/snk works, it just puts it on a new branch -->
 <br><br>
-<img alt="snake eating my contribution" src="https://github.com/mishmanners/HwangBBang/blob/output/github-contribution-grid-snake.svg">
+![](https://github.com/mishmanners/HwangBBang/blob/output/github-contribution-grid-snake.svg)
 <br><br><br>
 ### 📚 Log 📚 
 
