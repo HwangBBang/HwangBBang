@@ -8,12 +8,11 @@
  [![Solved.ac
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/h1009218)
  
- 
-![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&theme=dark&show_icons=ture)
+[![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&theme=dark)](https://github.com/HwangBBang/github-readme-stats)
 
 ### 📚 Log 📚 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&layout=compact)](https://github.com/HwangBBang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&layout=compact&theme=dark)](https://github.com/HwangBBang/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 
