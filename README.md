@@ -9,7 +9,7 @@
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/h1009218)
  
  
-[![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&theme=dark&show_icons=ture)
+![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&theme=dark&show_icons=ture)
 
 ### 📚 Log 📚 
 
