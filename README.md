@@ -34,24 +34,19 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,arduino,html)](https://skillicons.dev)<br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <br> 
+
+
+### 🗑 수정중 🗑
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+
+
+[Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
 [Python_Practice_2022](https://github.com/HwangBBang/Python_Practice_2022)  
 [Mini_Project](https://github.com/HwangBBang/Mini_Project)  
 [Team-KKLHY](https://github.com/HwangBBang/team-KKLHY)  
-[BaekJoon](https://github.com/HwangBBang/BaekJoon)
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-
-[Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
-
-<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-
-[Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022)
-
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-
-[Mini_Project](https://github.com/HwangBBang/Mini_Project)  
+[BaekJoon](https://github.com/HwangBBang/BaekJoon)  
+[Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022)  
 
 ---
 ## 🔥strength🔥
