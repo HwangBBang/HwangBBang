@@ -49,7 +49,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 [Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022)  
 
 ---
-### 🔥strength🔥
+### 🔥Strength🔥
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
  Python3.0 클래스와 객체를 이해합니다. <br>
 
