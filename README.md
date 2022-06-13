@@ -11,7 +11,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
   <!-- 깃헙 Stats -->
 [![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&theme=dark)](https://github.com/HwangBBang/github-readme-stats)<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&theme=darkhub&rank=-B,-C&margin-w=70)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&theme=darkhub&rank=-B,-C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ###  📚 Log 📚  
