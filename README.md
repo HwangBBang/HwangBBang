@@ -8,6 +8,7 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) 
  [![Solved.ac
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/h1009218)<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,linux,github,stackoverflow,git)](https://skillicons.dev)
   <!-- 깃헙 Stats -->
 [![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&theme=dark)](https://github.com/HwangBBang/github-readme-stats)<br>
 
@@ -18,8 +19,9 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&layout=compact&theme=dark)](https://github.com/HwangBBang/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,arduino,html)](https://skillicons.dev)<br>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <br> 
 [Python_Practice_2022](https://github.com/HwangBBang/Python_Practice_2022)  
 [Mini_Project](https://github.com/HwangBBang/Mini_Project)  
 [Team-KKLHY](https://github.com/HwangBBang/team-KKLHY)  
