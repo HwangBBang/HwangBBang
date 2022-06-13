@@ -8,22 +8,29 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) 
  [![Solved.ac
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/h1009218)<br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,linux,github,stackoverflow,git)](https://skillicons.dev)
   <!-- 깃헙 Stats -->
+### ⚡ Github Stats ⚡
+
 <details>
-  <summary> ⚡ Github Stats ⚡ </summary>
+  <summary> Click on it </summary>
 
  [![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&theme=dark)](https://github.com/HwangBBang/github-readme-stats)<br>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&theme=darkhub&rank=-B,-C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
+</details> 
 
-###  📚 Log 📚  
+### 💼 Top Langs 💼
+
 <details>
-  <summary> 💼 Top Langs 💼 </summary>
+  <summary> Click on it </summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&layout=compact&theme=dark)](https://github.com/HwangBBang/github-readme-stats)
 </details>
+
+### 🛠 My Tool 🛠
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,linux,github,stackoverflow,git)](https://skillicons.dev)
+
+###  📚 Log 📚  
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,arduino,html)](https://skillicons.dev)<br>
 
