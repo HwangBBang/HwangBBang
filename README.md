@@ -9,37 +9,7 @@
  [![Solved.ac
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/h1009218)<br>
   <!-- 깃헙 Stats -->
-
-## 🛠 Tools I use 🛠
-<code><img title="Apple" alt="apple" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
-<code><img title="Ubuntu" alt="ubuntu" width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="Vscode" alt="vscode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="Xcode" alt="xcode" width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /></code>
-<code><img title="Atom" alt="atom" width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /></code>
-<code><img title="Eclipse" alt="eclipse" width="40px"
-src="https://skillicons.dev/icons?i=eclipse" /></code>
-
-
-##  📚  Languages & Frameworks 📚  
-
-<code><img title="Python" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="Java" alt="java" width="40px" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
-<code><img title="C" alt="c" width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img title="Cplusplus" alt="cplusplus" width="40px" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
-<code><img title="Arduino" alt="arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code> 
-<code> <img title="Markdown" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
-<code><img title="Html5" alt="html5" width="40px" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-
-<h2>:octocat: My GitHub Stats :octocat:</h2>
+<h2>:octocat: My GitHub Stats </h2>
 <details>
 <summary>📊 General Stats</summary>
  
@@ -65,9 +35,56 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></co
 [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&theme=darkhub&rank=-B,-C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
+<br><br>
+## 🛠 Tools I use 
+<code><img title="Apple" alt="apple" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Git" alt="git" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Sourcetree" alt="sourcetree" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="Vscode" alt="vscode" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="Xcode" alt="xcode" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /></code>
+<code><img title="Atom" alt="atom" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /></code>
+<code><img title="Eclipse" alt="eclipse" width="40px"
+           src="https://skillicons.dev/icons?i=eclipse" /></code>
+<br><br>
+##  💡 Languages & Frameworks   
 
+<code><img title="Python" alt="python" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="Java" alt="java" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code><img title="C" alt="c" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="Cplusplus" alt="cplusplus" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
+<code><img title="Arduino" alt="arduino" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code> 
+<code> <img title="Markdown" alt="markdown" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code><img title="Html5" alt="html5" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<br><br>
+## 📚 Learning
+<code><img title="Java" alt="java" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code><img title="Html5" alt="html5" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="Javascript" alt="javascript" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="React" alt="react" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 
-### 🗑 수정중 🗑
+<br><br>
+## ⚡️ DEMO REPO 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&repo=Mini_Project)](https://github.com/HwangBBang/Mini_Project)
 
@@ -79,7 +96,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></co
 [Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022) -->
 
 ---
-### 🔥Strength🔥
+### 🔥 Strength
 Python3.0 클래스와 객체를 이해합니다. <br>
 Terminal,Git을 사용하여 버전 관리를 할 수 있습니다. <br>
 
