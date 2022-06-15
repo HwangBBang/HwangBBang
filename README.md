@@ -10,6 +10,39 @@
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/h1009218)<br>
   <!-- 깃헙 Stats -->
 
+## 🛠 Tools I use 🛠
+<code><img title="Vscode" alt="vscode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="Xcode" alt="xcode" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /></code>
+<code><img title="Atom" alt="atom" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /></code>
+<code><img title="Eclipse" alt="eclipse" width="40px"
+src="https://skillicons.dev/icons?i=eclipse" /></code>
+
+
+
+<code><img title="Apple" alt="apple" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="40px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+
+
+
+##  📚  Languages & Frameworks 📚  
+
+<code><img title="Python" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="Java" alt="java" width="40px" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code><img title="C" alt="c" width="40px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="Cplusplus" alt="cplusplus" width="40px" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
+<code><img title="Arduino" alt="arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code> 
+<code> <img title="Markdown" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code><img title="Html5" alt="html5" width="40px" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+
 <h2>:octocat: My GitHub Stats :octocat:</h2>
 <details>
 <summary>📊 General Stats</summary>
@@ -37,43 +70,6 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 </details>
 
 
-
-
-
-
-
-
-
-
-### 🛠 My Tool 🛠
-<code><img title="Vscode" alt="vscode" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="Xcode" alt="xcode" width="45px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /></code>
-<code><img title="Atom" alt="atom" width="45px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /></code>
-[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
-
-
-<code><img title="Apple" alt="apple" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
-<code><img title="Ubuntu" alt="ubuntu" width="45px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-
-
-
-###  📚 Log 📚  
-
-<code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="C" alt="c" width="45px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img title="Cplusplus" alt="cplusplus" width="45px" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
-<code><img title="Arduino" alt="arduino" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code> 
-<code><img title="Html5" alt="html5" width="45px" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="Java" alt="java" width="45px" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 
 ### 🗑 수정중 🗑
 
