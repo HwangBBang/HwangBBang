@@ -27,19 +27,39 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&layout=compact&theme=dark)](https://github.com/HwangBBang/github-readme-stats)
 </details>
 
+### ⚒ IDE ⚒
+<code><img title="Vscode" alt="vscode" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="Xcode" alt="xcode" width="45px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /></code>
+<code><img title="Atom" alt="atom" width="45px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /></code>
+[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
 ### 🛠 My Tool 🛠
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,linux,github,stackoverflow,git)](https://skillicons.dev)
+
+<code><img title="Apple" alt="apple" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="45px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+
+
 
 ###  📚 Log 📚  
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,arduino,html)](https://skillicons.dev)<br>
-
-
+<code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="C" alt="c" width="45px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="Cplusplus" alt="cplusplus" width="45px" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
+<code><img title="Arduino" alt="arduino" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code> 
+<code><img title="Html5" alt="html5" width="45px" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="Java" alt="java" width="45px" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 
 ### 🗑 수정중 🗑
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&repo=Mini_Project)](https://github.com/HwangBBang/Mini_Project)
 
 [Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
 [Python_Practice_2022](https://github.com/HwangBBang/Python_Practice_2022)  
