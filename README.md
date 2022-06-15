@@ -11,6 +11,11 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
   <!-- 깃헙 Stats -->
 
 ## 🛠 Tools I use 🛠
+<code><img title="Apple" alt="apple" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="40px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 <code><img title="Vscode" alt="vscode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="Xcode" alt="xcode" width="40px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /></code>
@@ -18,15 +23,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /></code>
 <code><img title="Eclipse" alt="eclipse" width="40px"
 src="https://skillicons.dev/icons?i=eclipse" /></code>
-
-
-
-<code><img title="Apple" alt="apple" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
-<code><img title="Ubuntu" alt="ubuntu" width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-
 
 
 ##  📚  Languages & Frameworks 📚  
