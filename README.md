@@ -9,23 +9,41 @@
  [![Solved.ac
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/h1009218)<br>
   <!-- 깃헙 Stats -->
-### ⚡ Github Stats ⚡
 
+<h2>:octocat: My GitHub Stats :octocat:</h2>
 <details>
-  <summary> Click on it </summary>
-
- [![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&theme=dark)](https://github.com/HwangBBang/github-readme-stats)<br>
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&theme=darkhub&rank=-B,-C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-</details> 
-
-### 💼 Top Langs 💼
-
-<details>
-  <summary> Click on it </summary>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&layout=compact&theme=dark)](https://github.com/HwangBBang/github-readme-stats)
+<summary>📊 General Stats</summary>
+ 
+ [![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&theme=dark)](https://github.com/HwangBBang/github-readme-stats)
 </details>
+
+<details>
+<summary>💼 Top languages</summary>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&layout=compact&theme=dark)](https://github.com/HwangBBang/github-readme-stats)
+</details>
+
+<details>
+<summary>⚡ Streak stats</summary>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+    </a>
+</details>
+
+<details>
+ <summary>🏆 Achievements</summary>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&theme=darkhub&rank=-B,-C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
+
+
+
+
+
+
+
+
+
 
 ### 🛠 My Tool 🛠
 <code><img title="Vscode" alt="vscode" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
@@ -61,12 +79,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></co
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&repo=Mini_Project)](https://github.com/HwangBBang/Mini_Project)
 
-[Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
+<!-- [Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
 [Python_Practice_2022](https://github.com/HwangBBang/Python_Practice_2022)  
 [Mini_Project](https://github.com/HwangBBang/Mini_Project)  
 [Team-KKLHY](https://github.com/HwangBBang/team-KKLHY)  
 [BaekJoon](https://github.com/HwangBBang/BaekJoon)  
-[Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022)  
+[Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022) -->
 
 ---
 ### 🔥Strength🔥
