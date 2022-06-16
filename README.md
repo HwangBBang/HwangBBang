@@ -23,7 +23,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 </details>
 
 <details>
-<summary>⚡ Streak stats</summary>
+<summary> :fire: Streak stats</summary>
     <a href="https://github.com/HwangBBang">
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=HwangBBang&theme=highcontrast&hide_border=true" alt="streak stats"/>
     </a>
@@ -68,7 +68,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
 <code><img title="Arduino" alt="arduino" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code> 
-<code> <img title="Markdown" alt="markdown" width="40px" 
+<code><img title="Markdown" alt="markdown" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 <code><img title="Html5" alt="html5" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
