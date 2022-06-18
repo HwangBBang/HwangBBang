@@ -87,6 +87,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 ## ⚡️ DEMO REPO 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&repo=Mini_Project)](https://github.com/HwangBBang/Mini_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&repo=HUFS_Repository)](https://github.com/HwangBBang/HUFS_Repository)
 
 <!-- [Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
 [Python_Practice_2022](https://github.com/HwangBBang/Python_Practice_2022)  
