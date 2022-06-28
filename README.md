@@ -85,8 +85,8 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 <code><img title="Django" alt="django" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /></code>
 
-
 <br>
+
 ## ⚡️ DEMO REPO 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&repo=Mini_Project)](https://github.com/HwangBBang/Mini_Project)
