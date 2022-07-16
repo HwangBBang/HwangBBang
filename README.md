@@ -42,8 +42,8 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&theme=darkhub&rank=-B,-C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
+<br>
 
-<br><br>
 ## 🛠 Tools I use 
 <code><img title="Apple" alt="apple" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
