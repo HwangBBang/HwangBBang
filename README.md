@@ -116,7 +116,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 ### 🔥 Strength
 Python3.0 클래스와 객체를 이해합니다. <br>
 Terminal,Git을 사용하여 버전 관리를 할 수 있습니다. <br>
-
+ 
 
 <p align="right">
  <a href="#top">
