@@ -90,8 +90,8 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="React" alt="react" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img title="Django" alt="django" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /></code>
+<code><img title="Spring" alt="spring" width="40px"                                            
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
 <code><img title="Nodejs" alt="nodejs" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code><img title="Npm" alt="npm" width="40px"
