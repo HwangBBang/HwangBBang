@@ -110,7 +110,12 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 [Team-KKLHY](https://github.com/HwangBBang/team-KKLHY)  
 [BaekJoon](https://github.com/HwangBBang/BaekJoon)  
 [Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022) -->
+<br><br>
+## :snake:Snake
+<img alt="snake eating my contribution" src="https://github.com/HwangBBang/HwangBBang/blob/output/github-contribution-grid-snake.svg">
 
+<br>
+ 
 ---
 
 ### 🔥 Strength
@@ -118,12 +123,6 @@ Python3.0 클래스와 객체를 이해합니다. <br>
 Terminal,Git을 사용하여 버전 관리를 할 수 있습니다. <br>
 
 
-### :snake:Snake
-
-<img alt="snake eating my contribution" src="https://github.com/HwangBBang/HwangBBang/blob/output/github-contribution-grid-snake.svg">
-
-<br>
- 
 
 <p align="right">
  <a href="#top">
