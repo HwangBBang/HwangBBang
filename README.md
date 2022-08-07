@@ -80,6 +80,9 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 <code><img title="Html5" alt="html5" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="Javascript" alt="javascript" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+
 <br><br> 
 ## 📚 Learning
 <code><img title="Java" alt="java" width="40px" 
