@@ -119,7 +119,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 <br><br>
 ## :snake: Snake that eats mine
 
-<img alt="snake eating my contribution" src="https://github.com/HwangBBang/HwangBBang/blob/output/github-contribution-grid-snake.svg">
+<img alt="snake eating my contribution" src="https://github.com/HwangBBang/HwangBBang/blob/output/github-contribution-grid-snake.svg"> 
 
 <br>
  
