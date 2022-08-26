@@ -23,7 +23,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&layout=compact&theme=dark)](https://github.com/HwangBBang/github-readme-stats)
 </details>
 
-<details>
+<details> 
 <summary> :fire: Streak stats</summary>
     <a href="https://github.com/HwangBBang">
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=HwangBBang&theme=highcontrast&hide_border=true" alt="streak stats"/>
