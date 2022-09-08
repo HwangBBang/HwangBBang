@@ -63,6 +63,12 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /></code>
 <code><img title="Eclipse" alt="eclipse" width="40px"
            src="https://skillicons.dev/icons?i=eclipse" /></code>
+<code><img title="Markdown" alt="markdown" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code><img title="Html5" alt="html5" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="CSS" alt="css" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <br><br>
 ##  💡 Languages & Frameworks   
 
@@ -76,12 +82,6 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
 <code><img title="Arduino" alt="arduino" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code> 
-<code><img title="Markdown" alt="markdown" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
-<code><img title="Html5" alt="html5" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS" alt="css" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="Javascript" alt="javascript" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <br><br> 
