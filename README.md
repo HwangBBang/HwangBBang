@@ -117,7 +117,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 [BaekJoon](https://github.com/HwangBBang/BaekJoon)  
 [Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022) -->
 <br><br>
-## :snake: Snake that eats mine
+## :snake: Snake that eats mine 
 
 <img alt="snake eating my contribution" src="https://github.com/HwangBBang/HwangBBang/blob/output/github-contribution-grid-snake.svg"> 
 
