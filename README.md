@@ -86,8 +86,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <br><br> 
 ## 📚 Learning
-<code><img title="Python" alt="python" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+
 <code><img title="Java" alt="java" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img title="CSS" alt="css" width="40px"
