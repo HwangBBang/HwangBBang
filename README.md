@@ -66,8 +66,6 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="Xcode" alt="xcode" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /></code>
-<code><img title="Atom" alt="atom" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /></code>
 <code><img title="Eclipse" alt="eclipse" width="40px"
            src="https://skillicons.dev/icons?i=eclipse" /></code>
 <code><img title="Markdown" alt="markdown" width="40px" 
