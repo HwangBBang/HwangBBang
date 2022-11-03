@@ -14,7 +14,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 <details>
 <summary>📊 General Stats</summary>
  
- [![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&theme=dark)](https://github.com/HwangBBang/github-readme-stats)
+ [![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang)](https://github.com/HwangBBang/github-readme-stats)
 </details>
 
 <details>
@@ -26,7 +26,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 <details>
 <summary>💼 Top languages</summary>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&layout=compact&theme=dark)](https://github.com/HwangBBang/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&layout=compact)](https://github.com/HwangBBang/github-readme-stats)
 </details> 
  
 <details> 
