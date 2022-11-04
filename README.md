@@ -129,9 +129,10 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
  
 ---
 
-### 🔥 Strength
+### 🔥 A field of Interest
   
-🚧 공사중 🚧
++ Object Oriented structure of JAVA
++ Dynamic Programming in Computer Science Algorithms
  
  
 <p align="right">
