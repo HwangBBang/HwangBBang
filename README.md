@@ -131,7 +131,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 
 ### 🔥 A field of Interest
   
-+ Object Oriented structure of JAVA
++ Design Pattern of JAVA for Object Oriented Programming
 + Dynamic Programming in Computer Science Algorithms
  
  
