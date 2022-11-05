@@ -32,21 +32,21 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
 <details> 
 <summary> :fire: Streak stats</summary>
     <a href="https://github.com/HwangBBang">
-        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=HwangBBang&theme=highcontrast&hide_border=true" alt="streak stats"/>
+        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=HwangBBang&hide_border=true" alt="streak stats"/>
     </a>
 </details>
 
 <details>
 <summary> 📈Contribution Graph</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=HwangBBang&area=true&hide_border=true&bg_color=000&line=FFFFFF&point=333333&color=FFFFFF&area_color=FFFFFF">
+    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=HwangBBang&area=true&hide_border=true&bg_color=FFFFFFF&line=000&point=333333&color=333&area_color=333">
 </a>
 </details>
 
 <details>
  <summary>🏆 Achievements</summary>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&theme=darkhub&rank=-B,-C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&rank=-B,-C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
 <br>
