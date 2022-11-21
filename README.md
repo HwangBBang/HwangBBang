@@ -63,10 +63,10 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+ <code><img title="Anaconda" alt="anaconda" width="40px" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /></code>
 <code><img title="Vscode" alt="vscode" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="Xcode" alt="xcode" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /></code>
 <code><img title="Eclipse" alt="eclipse" width="40px"
            src="https://skillicons.dev/icons?i=eclipse" /></code>
 <code><img title="Markdown" alt="markdown" width="40px" 
@@ -105,8 +105,8 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
 <code><img title="Nodejs" alt="nodejs" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-<code><img title="Npm" alt="npm" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
+<code><img title="Php" alt="php" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
           
 <br><br>
 
