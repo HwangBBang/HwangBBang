@@ -43,7 +43,14 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://
     <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=HwangBBang&area=true&hide_border=true&bg_color=FFFFFFF&line=000&point=333333&color=333&area_color=333">
 </a>
 </details>
-
+ 
+<details> 
+<summary> :fire: BOJ Stats</summary>
+    <a href="[https://github.com/HwangBBang](https://solved.ac/profile/h1009218)">
+        [![Solved.ac
+     프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={h1009218})](https://solved.ac/{h1009218})
+    </a>
+</details>
 <details>
  <summary>🏆 Achievements</summary>
  
