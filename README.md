@@ -14,9 +14,8 @@
 <h2>:octocat: My GitHub Stats </h2>
 <details>
 <summary>📊 General Stats</summary>
- 
- [![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang)](https://github.com/HwangBBang/github-readme-stats)
-</details>
+ ![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&show_icons=true)
+ </details>
 
 <details>
  <summary> 🧬 3D Stats</summary>
