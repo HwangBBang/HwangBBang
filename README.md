@@ -38,9 +38,9 @@
 
 <details>
 <summary> 📈Contribution Graph</summary>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=HwangBBang&area=true&hide_border=true&bg_color=FFFFFFF&line=000&point=333333&color=333&area_color=333">
-</a>
+
+ ![HwangBBang's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HwangBBang&area=true&hide_border=true&bg_color=FFFFFFF&line=000&point=333333&color=333&area_color=333)
+
 </details>
  
 <details> 
