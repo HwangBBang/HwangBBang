@@ -46,9 +46,9 @@
 <details> 
 <summary> 🏅 BOJ Stats</summary>
   
- <img src="http://mazandi.herokuapp.com/api?handle=h1009218&theme=warm"/>[![Solved.ac
- 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h1009218)](https://solved.ac/h1009218)
- 
+[![Solved.ac
+ 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h1009218)](https://solved.ac/h1009218)<br>
+ <img src="http://mazandi.herokuapp.com/api?handle=h1009218&theme=warm"/> 
 </details>
 <details>
  <summary>🏆 Achievements</summary>
