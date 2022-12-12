@@ -26,7 +26,7 @@
 <details>
 <summary>💼 Top languages</summary>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&layout=compact)](https://github.com/HwangBBang/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang)](https://github.com/HwangBBang/github-readme-stats)
 </details> 
  
 <details> 
