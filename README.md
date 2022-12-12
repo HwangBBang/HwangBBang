@@ -62,14 +62,16 @@
 </details>
  
 <details>
- <summary>🏆 Achievements</summary>
-   <br>
- 
-   [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&rank=-B,-C&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+ <summary>🏆 Achievements</summary><br>
+  <div align = "center">
+                                                                <!--  &rank=-B,-C  -->
    
-+  #### 2022 HUFS Code Festival - Beginner Track TOP-7
- 
- </details>
+   [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+   
+   +  #### 2022 HUFS Code Festival - Beginner Track TOP-7
+
+ </div>
+</details>
  
   
 
