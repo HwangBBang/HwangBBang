@@ -14,9 +14,11 @@
 <h2>:octocat: My GitHub Stats </h2>
 <details>
 <summary>📊 General Stats</summary>
+ <div align = "center">
+  
+  ![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&show_icons=true)</details>
  
- ![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&show_icons=true)</details>
-
+ </div>
 <details>
  <summary> 🧬 3D Stats</summary>
  
@@ -25,15 +27,21 @@
 
 <details>
 <summary>💼 Top languages</summary>
+ <div align = "center">
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang)](https://github.com/HwangBBang/github-readme-stats)
-</details> 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang)](https://github.com/HwangBBang/github-readme-stats)
+
+  </div>
+ </details> 
  
-<details> 
+<details>
+ 
 <summary> :fire: Streak stats</summary>
+  <div align = "center">
     <a href="https://github.com/HwangBBang">
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=HwangBBang&hide_border=true" alt="streak stats"/>
     </a>
+  </div>
 </details>
 
 <details>
@@ -45,17 +53,20 @@
  
 <details> 
 <summary> 🏅 BOJ Stats</summary>
+ <div align = "center">
   
-[![Solved.ac
- 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h1009218)](https://solved.ac/h1009218)<br>
- <img src="http://mazandi.herokuapp.com/api?handle=h1009218&theme=warm"/> 
+   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h1009218)](https://solved.ac/h1009218)<br>
+  <img src="http://mazandi.herokuapp.com/api?handle=h1009218&theme=warm"/> 
+ 
+ </div>
 </details>
+ 
 <details>
  <summary>🏆 Achievements</summary>
-   
- [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&rank=-B,-C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+   <br>
  
-
+   [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&rank=-B,-C&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+   
 +  #### 2022 HUFS Code Festival - Beginner Track TOP-7
  
  </details>
