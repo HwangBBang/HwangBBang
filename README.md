@@ -1,5 +1,5 @@
 
-### ByeoungHun Hwang    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:h1009218@hufs.ac.kr)](mailto:h1009218@hufs.ac.kr) 
+### ByeoungHoon Hwang    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:h1009218@hufs.ac.kr)](mailto:h1009218@hufs.ac.kr) 
  
  <!-- 노션,블로그,인스타 -->
  <a href = "https://www.notion.so/2-804f85fc028e4319b4a8896434a0e20f" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a><a href = "https://blog.naver.com/h1009218" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
