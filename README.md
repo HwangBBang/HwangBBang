@@ -2,7 +2,7 @@
 ### ByeoungHoon Hwang    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:h1009218@hufs.ac.kr)](mailto:h1009218@hufs.ac.kr) 
  
  <!-- 노션,블로그,벨로그 -->
- <a href = "https://www.notion.so/2-804f85fc028e4319b4a8896434a0e20f" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/2-804f85fc028e4319b4a8896434a0e20f"> </a>
+ <a href = "https://brash-partner-0d2.notion.site/Hwang-Byeoung-Hoon-804f85fc028e4319b4a8896434a0e20f" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://brash-partner-0d2.notion.site/Hwang-Byeoung-Hoon-804f85fc028e4319b4a8896434a0e20f"> </a>
  <a href = "https://blog.naver.com/h1009218" target="_blank"><img src="https://img.shields.io/badge/Book-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link = https://blog.naver.com/h1009218"></a>
  <a href = "https://velog.io/@hwang_bbang" target="_blank"><img src="https://img.shields.io/badge/Tech-20C997?style=for-the-badge&logo=Velog&logoColor=white&link = https://velog.io/@hwang_bbang"> </a> 
 
