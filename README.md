@@ -117,23 +117,22 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code> 
 <code><img title="Javascript" alt="javascript" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Php" alt="php" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
 <br><br> 
 ## 📚 Learning
 
+
+<code><img title="Cpp" alt="cpp" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
 <code><img title="Java" alt="java" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
-<code><img title="CSS" alt="css" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img title="Javascript" alt="javascript" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="React" alt="react" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="Spring" alt="spring" width="40px"                                            
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
-<code><img title="Nodejs" alt="nodejs" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-<code><img title="Php" alt="php" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
+<code><img title="Mysql" alt="mysql" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
+<code><img title="Docker" alt="docker" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></code>
           
 <br><br>
 
