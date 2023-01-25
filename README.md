@@ -9,7 +9,7 @@
 <!-- 방문자,백준 -->
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com) 
  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/h1009218)<br>
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/profile/h1009218)<br>
 
    
 <!-- 깃헙 Stats -->
