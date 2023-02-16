@@ -105,6 +105,8 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS" alt="css" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="Docker" alt="docker" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></code>
 <br><br>
 ##  💡 Languages & Frameworks   
 
@@ -122,6 +124,8 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Php" alt="php" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
+<code><img title="Mysql" alt="mysql" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 <br><br> 
 ## 📚 Learning
 
