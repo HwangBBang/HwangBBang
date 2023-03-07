@@ -162,6 +162,8 @@
 <br> 
  
 ---
+### 🃏 Current activity
++ developing casino simulation project.
 
 ### 🔥 A field of Interest
   
