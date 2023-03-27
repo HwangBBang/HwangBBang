@@ -129,7 +129,8 @@
 <br><br> 
 ## 📚 Learning
 
-
+<code><img title="C#" alt="c#" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
 <code><img title="Cpp" alt="cpp" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
 <code><img title="Java" alt="java" width="40px" 
