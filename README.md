@@ -17,7 +17,7 @@
 
 # 🃏 Current activity
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&repo=CasinoProject)](https://github.com/HwangBBang/CasinoProjet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=CasinoProject)](https://github.com/HwangBBang/CasinoProject)
 + developing casino simulation project.
 + [Go to Baccarat's README](https://github.com/HwangBBang/CasinoProject/tree/main/Baccarat#readme)
 
