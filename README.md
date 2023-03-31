@@ -14,7 +14,15 @@
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/profile/h1009218)<br>
 
-   
+
+# 🃏 Current activity
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&repo=CasinoProject)](https://github.com/HwangBBang/CasinoProjet)
++ developing casino simulation project.
++ [Go to Baccarat's README](https://github.com/HwangBBang/CasinoProject/tree/main/Baccarat#readme)
+
+
+
 <!-- 깃헙 Stats -->
 <h2>:octocat: My GitHub Stats </h2>
 <details>
@@ -163,10 +171,6 @@
 <br> 
  
 ---
-# 🃏 Current activity
-+ developing casino simulation project.
-+ [Go to Baccarat's README](https://github.com/HwangBBang/CasinoProject/tree/main/Baccarat#readme)
-
 
 
 ### 🔥 A field of Interest
