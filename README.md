@@ -163,8 +163,11 @@
 <br> 
  
 ---
-### 🃏 Current activity
+# 🃏 Current activity
 + developing casino simulation project.
++ [Go to Baccarat's README](https://github.com/HwangBBang/CasinoProject/tree/main/Baccarat#readme)
+
+
 
 ### 🔥 A field of Interest
   
