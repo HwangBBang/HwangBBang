@@ -106,7 +106,7 @@
 <code><img title="Vscode" alt="vscode" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="Eclipse" alt="eclipse" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" /></code>
+           src="https://skillicons.dev/icons?i=eclipse" /></code>
 <code><img title="Markdown" alt="markdown" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 <code><img title="Html5" alt="html5" width="40px" 
