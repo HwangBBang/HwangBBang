@@ -109,42 +109,32 @@
            src="https://skillicons.dev/icons?i=eclipse" /></code>
 <code><img title="Markdown" alt="markdown" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
-<code><img title="Html5" alt="html5" width="40px" 
+<code><img title="Html5" alt="html5" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS" alt="css" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img title="Docker" alt="docker" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></code>
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code> 
 <br><br>
 ##  💡 Languages & Frameworks   
 
 <code><img title="Python" alt="python" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="Java" alt="java" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
-<code><img title="C" alt="c" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="Cplusplus" alt="cplusplus" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
-<code><img title="Arduino" alt="arduino" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code> 
-<code><img title="Javascript" alt="javascript" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="Php" alt="php" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
+<code><img title="C" alt="c" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="Java" alt="java" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img title="Mysql" alt="mysql" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 <br><br> 
 ## 📚 Learning
 
+<code><img title="C" alt="c" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="C#" alt="c#" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
 <code><img title="Cpp" alt="cpp" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
-<code><img title="Java" alt="java" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
-<code><img title="Spring" alt="spring" width="40px"                                            
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
 <code><img title="Mysql" alt="mysql" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img title="Docker" alt="docker" width="40px" 
@@ -152,10 +142,22 @@
           
 <br><br>
 
+## 📑 Experienced
+
+<code><img title="Arduino" alt="arduino" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code> 
+<code><img title="Php" alt="php" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
+<code><img title="Javascript" alt="javascript" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Docker" alt="docker" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></code>   
+<br><br>
+
 ## ⚡️ DEMO REPO 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&repo=Mini_Project)](https://github.com/HwangBBang/Mini_Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&repo=JS_Study)](https://github.com/HwangBBang/JS_Study)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=Mini_Project)](https://github.com/HwangBBang/Mini_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=JS_Study)](https://github.com/HwangBBang/JS_Study)
 
 <!-- [Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
 [Python_Practice_2022](https://github.com/HwangBBang/Python_Practice_2022)  
