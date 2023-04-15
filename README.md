@@ -142,7 +142,7 @@
           
 <br><br>
 
-## 📑 Experienced
+## 📑 Have done
 
 <code><img title="Arduino" alt="arduino" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></code> 
