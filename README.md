@@ -177,8 +177,8 @@
 
 ### 🔥 A field of Interest
   
-+ Design Pattern of JAVA for Object Oriented Programming
-+ Dynamic Programming in Computer Science Algorithms
++ Design Pattern of Python for Object Oriented Programming
++ RISC-V instruction set architecture (ISA)
  
  
 <p align="right">
