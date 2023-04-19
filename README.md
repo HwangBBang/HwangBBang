@@ -21,6 +21,9 @@
 + developing casino simulation project.
 + [Go to Baccarat's README](https://github.com/HwangBBang/CasinoProject/tree/main/Baccarat#readme)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=GameProgramming)](https://github.com/HwangBBang/CasinoProject)
++ developing Unity game project.
++ [Go to GameProgramming's README](https://github.com/HwangBBang/GameProgramming)
 
 
 <!-- 깃헙 Stats -->
