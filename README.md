@@ -17,12 +17,24 @@
 
 # 🃏 Current activity
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=CasinoProject)](https://github.com/HwangBBang/CasinoProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=GameProgramming)](https://github.com/HwangBBang/GameProgramming/tree/main)
-+ developing casino simulation project.
+ <table ><tr>
+  <td>
+   
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=CasinoProject)](https://github.com/HwangBBang/CasinoProject)  
+ + developing casino simulation project.   
+ + [Go to Baccarat's README](https://github.com/HwangBBang/CasinoProject/tree/main/Baccarat#readme)
+  </td>
+  <td>
+  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=GameProgramming)](https://github.com/HwangBBang/GameProgramming/tree/main)      
 + developing Unity game project.
-+ [Go to Baccarat's README](https://github.com/HwangBBang/CasinoProject/tree/main/Baccarat#readme)
 + [Go to GameProgramming's README](https://github.com/HwangBBang/GameProgramming)
+  </td> 
+ </tr></table>
+
+
+
+
 
 
 <!-- 깃헙 Stats -->
@@ -190,3 +202,6 @@
 </p> 
  
  
+ 
+
+
