@@ -121,12 +121,7 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="Eclipse" alt="eclipse" width="40px"
            src="https://skillicons.dev/icons?i=eclipse" /></code>
-<code><img title="Markdown" alt="markdown" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
-<code><img title="Html5" alt="html5" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS" alt="css" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code> 
+
 <br><br>
 ##  💡 Languages & Frameworks   
 
@@ -140,6 +135,12 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img title="Mysql" alt="mysql" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
+<code><img title="Markdown" alt="markdown" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code><img title="Html5" alt="html5" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="CSS" alt="css" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code> 
 <br><br> 
 ## 📚 Learning
 
