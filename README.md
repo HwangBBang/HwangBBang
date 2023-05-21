@@ -121,6 +121,8 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="Eclipse" alt="eclipse" width="40px"
            src="https://skillicons.dev/icons?i=eclipse" /></code>
+<code><img title="Unity" alt="unity" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
 
 <br><br>
 ##  💡 Languages & Frameworks   
@@ -154,6 +156,12 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img title="Docker" alt="docker" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></code>
+<code><img title="Javascript" alt="javascript" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="React" alt="react" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+           
+          
           
 <br><br>
 
