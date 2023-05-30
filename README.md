@@ -26,7 +26,7 @@
   </td>
   <td>
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=GameProgramming)](https://github.com/HwangBBang/GameProgramming/tree/main)      
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=JS_Study)](https://github.com/HwangBBang/JS_Study)
 + developing Unity game project.
 + [Go to GameProgramming's README](https://github.com/HwangBBang/GameProgramming)
   </td> 
