@@ -26,9 +26,9 @@
   </td>
   <td>
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=JS_Study)](https://github.com/HwangBBang/JS_Study)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YangJinHyeok&theme=dark&repo=T01402201-Team-4)](https://github.com/YangJinHyeok/T01402201-Team-4)
 + developing Unity game project.
-+ [Go to GameProgramming's README](https://github.com/HwangBBang/GameProgramming)
++ [Go to CrazyArcade's README](https://github.com/YangJinHyeok/T01402201-Team-4/blob/develop/README.md)
   </td> 
  </tr></table>
 
