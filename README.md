@@ -99,7 +99,17 @@
 
  </div>
 </details>
- 
+
+<details>
+ <summary>🔥 Experience</summary><br>
+  <div align = "center">
+      
+   + The Coding club. Tutoring Activities as a C, Python Instructor
+   + Private Tutoring Activities as a Python and Algorithm Instructor
+   + HUFS Intelligent Database System Lab. Undergraduate student
+
+ </div>
+</details>
   
 
 <br>
