@@ -73,9 +73,13 @@
 
 <details>
 <summary> 📈Contribution Graph</summary>
-
+ 
+ <p>
+  
  ![HwangBBang's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HwangBBang&area=true&hide_border=true&bg_color=FFFFFFF&line=000&point=333333&color=333&area_color=333)
-
+ 
+ </p>
+ 
 </details>
  
 <details> 
@@ -90,25 +94,33 @@
  
 <details>
  <summary>🏆 Achievements</summary><br>
-  <div align = "center">
+  <p align = "center">
                                                                 <!--  &rank=-B,-C  -->
    
    [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
    
-   +  #### 2022 HUFS Code Festival - Beginner Track TOP-7
+   
+ </p>
 
- </div>
+ <p>
+  
+  -  #### 2022 HUFS Code Festival - Beginner Track TOP-7
+
+ </p> 
+ 
 </details>
 
 <details>
- <summary>🔥 Experience</summary><br>
-  <div align = "center">
-      
-   + The Coding club. Tutoring Activities as a C, Python Instructor
-   + Private Tutoring Activities as a Python and Algorithm Instructor
-   + HUFS Intelligent Database System Lab. Undergraduate student
+ <summary>💻 Experience</summary><br>
+   
+   <p>
 
- </div>
+   - The Coding club. Tutoring Activities as a C, Python Instructor
+   - Private Tutoring Activities as a Python and Algorithm Instructor
+   - HUFS Intelligent Database System Lab. Undergraduate student
+
+   </p>
+
 </details>
   
 
