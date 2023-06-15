@@ -36,7 +36,6 @@
 
 
 
-
 <!-- 깃헙 Stats -->
 <h2>:octocat: My GitHub Stats </h2>
 <details>
@@ -74,7 +73,7 @@
 <details>
 <summary> 📈Contribution Graph</summary>
  
- <p>
+ <p align = "center">
   <a href="https://opgc.me/#/users/HWANGBBANG" target="_blank"><img src="https://api.opgc.me/githubs/users/HWANGBBANG/tag/?theme=basic" /></a>
   
  ![HwangBBang's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HwangBBang&area=true&hide_border=true&bg_color=FFFFFFF&line=000&point=333333&color=333&area_color=333)
@@ -100,19 +99,16 @@
    
    [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
    
-   
  </p>
 
  <p>
-  
   -  #### 2022 HUFS Code Festival - Beginner Track TOP-7
-
  </p> 
  
 </details>
 
 <details>
- <summary>💻 Experience</summary><br>
+ <summary>💫 Experience</summary><br>
    
    <p>
 
@@ -146,7 +142,6 @@
            src="https://skillicons.dev/icons?i=eclipse" /></code>
 <code><img title="Unity" alt="unity" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
-
 <br><br>
 ##  💡 Languages & Frameworks   
 
@@ -183,11 +178,7 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="React" alt="react" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-           
-          
-          
 <br><br>
-
 ## 📑 What i've done
 
 <code><img title="Arduino" alt="arduino" width="40px" 
