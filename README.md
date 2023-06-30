@@ -103,9 +103,9 @@
 
  <p>
   
-  - _2022 HUFS Code Festival - Beginner Track TOP-7_
+  - [_2022 HUFS Code Festival - Beginner Track TOP-7_](https://hufs.goorm.io/learn/lecture/34043/%EC%A0%9C-4%ED%9A%8C-hufs-code-festival-beginner-track/exam)
   
-  - _2023 HUFSummer Hackaton 한국외국어대학교 총장상(대상) 수상_
+  - [_2023 HUFSummer Hackathon 한국외국어대학교 총장상(대상) 수상_](https://github.com/HwangBBang/careero)
     
  </p> 
  
