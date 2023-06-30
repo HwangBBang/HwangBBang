@@ -102,7 +102,11 @@
  </p>
 
  <p>
-  -  #### 2022 HUFS Code Festival - Beginner Track TOP-7
+  
+  - _2022 HUFS Code Festival - Beginner Track TOP-7_
+  
+  - _2023 HUFSummer Hackaton 한국외국어대학교 총장상(대상) 수상_
+    
  </p> 
  
 </details>
