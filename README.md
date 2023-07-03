@@ -37,7 +37,36 @@
 
 
 <!-- 깃헙 Stats -->
+
 <h2>:octocat: My GitHub Stats </h2>
+<details>
+ <summary>💫 Experience</summary><br>
+   <p>
+    
+  - Private Tutoring Activities as a Python and Algorithm Instructor.
+  - The Coding club. Tutoring Activities as a C, Python Instructor.
+  - [Organized, planned and led a C/C++ study group.](https://brash-partner-0d2.notion.site/Ids-Lab-Cpp-Study-d24280ac40cc4aaca4082666720b5f9c?pvs=4)
+  - [HUFS Intelligent Database System Lab. Undergraduate student.](http://ids.hufs.ac.kr/)
+  - [Organized, planned and led a JavaScript study group.](https://github.com/HwangBBang/JS_Study)
+
+   </p>
+</details>
+<details>
+ <summary>🏆 Achievements</summary><br>
+  <p align = "center">
+   
+   [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+   
+ </p>
+ <p>
+  
+  - [_2022 HUFS Code Festival - Beginner Track TOP-7_](https://hufs.goorm.io/learn/lecture/34043/%EC%A0%9C-4%ED%9A%8C-hufs-code-festival-beginner-track/exam)
+  
+  - [_2023 HUFSummer Hackathon 한국외국어대학교 총장상(대상) 수상_](https://github.com/HwangBBang/careero)
+    
+ </p> 
+</details>
+
 <details>
 <summary>📊 General Stats</summary>
  <div align = "center">
@@ -91,39 +120,6 @@
  
  </div>
 </details>
- 
-<details>
- <summary>🏆 Achievements</summary><br>
-  <p align = "center">
-                                                                <!--  &rank=-B,-C  -->
-   
-   [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
-   
- </p>
-
- <p>
-  
-  - [_2022 HUFS Code Festival - Beginner Track TOP-7_](https://hufs.goorm.io/learn/lecture/34043/%EC%A0%9C-4%ED%9A%8C-hufs-code-festival-beginner-track/exam)
-  
-  - [_2023 HUFSummer Hackathon 한국외국어대학교 총장상(대상) 수상_](https://github.com/HwangBBang/careero)
-    
- </p> 
- 
-</details>
-
-<details>
- <summary>💫 Experience</summary><br>
-   
-   <p>
-
-   - The Coding club. Tutoring Activities as a C, Python Instructor
-   - Private Tutoring Activities as a Python and Algorithm Instructor
-   - HUFS Intelligent Database System Lab. Undergraduate student
-
-   </p>
-
-</details>
-  
 
 <br>
 
