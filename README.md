@@ -142,6 +142,10 @@
            src="https://skillicons.dev/icons?i=eclipse" /></code>
 <code><img title="Unity" alt="unity" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
+<code><img title="Vim" alt="vim" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></code>
+            
+          
 <br><br>
 ##  💡 Languages & Frameworks   
 
@@ -172,8 +176,8 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="Cpp" alt="cpp" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
-<code><img title="Swift" alt="swift" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /></code>
+<code><img title="Bash" alt="bash" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
 <code><img title="Mysql" alt="mysql" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img title="Docker" alt="docker" width="40px" 
