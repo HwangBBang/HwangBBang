@@ -171,6 +171,8 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS" alt="css" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code> 
+<code><img title="Bash" alt="bash" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
 <br><br> 
 ## 📚 Learning
 
@@ -178,14 +180,12 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="Cpp" alt="cpp" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
-<code><img title="Bash" alt="bash" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
 <code><img title="Mysql" alt="mysql" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
-<code><img title="Docker" alt="docker" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></code>
 <code><img title="React" alt="react" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img title="TypeScript" alt="typescript" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
 <br><br>
 ## 📑 What i've done
 
