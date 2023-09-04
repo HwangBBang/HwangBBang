@@ -213,7 +213,7 @@
 <br><br>
 ## :snake: Snake that eats mine 
 
-<img alt="snake eating my contribution" src="https://github.com/HwangBBang/HwangBBang/blob/output/github-contribution-grid-snake.svg"> 
+<img alt="snake eating my contribution" src="https://github.com/HwangBBang/HwangBBang/blob/output/"> 
 
 <br> 
  
