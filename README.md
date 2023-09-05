@@ -48,8 +48,8 @@
   - [Organized, planned and led a C/C++ study group.](https://brash-partner-0d2.notion.site/Ids-Lab-Cpp-Study-d24280ac40cc4aaca4082666720b5f9c?pvs=4)
   - [HUFS Intelligent Database System Lab. Undergraduate student.](http://ids.hufs.ac.kr/)
   - [Organized, planned and led a JavaScript study group.](https://github.com/HwangBBang/JS_Study)
-  - Participated in a [2023 HUFSummer Hackathon]
-  - Participated in a [Venture Start-up Hackathon]
+  - [Participated in a 2023 HUFSummer Hackathon](https://github.com/kimjisub/careero)
+  - [Participated in a Venture Start-up Hackathon](https://github.com/kimjisub/event-form)
 
    </p>
 </details>
