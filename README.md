@@ -213,8 +213,11 @@
 <br><br>
 ## :snake: Snake that eats mine 
 
-<img alt="snake eating my contribution" src="https://github.com/HwangBBang/HwangBBang/blob/output/"> 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="snake eating my contribution" src="github-snake.svg" />
+</picture>
 <br> 
  
 ---
