@@ -20,7 +20,6 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
 
     # Generates the snake  
       - name: generate-snake-game-from-github-contribution-grid
@@ -34,9 +33,6 @@ jobs:
               dist/github-snake-dark.svg?palette=github-dark
               dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
-
-
-
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
