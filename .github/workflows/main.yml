@@ -13,7 +13,6 @@ on:
 
 # The sequence of runs in this workflow:
 jobs:
-    name: 🐍 Update snake animation
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
