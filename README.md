@@ -22,15 +22,15 @@
    
    
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=Private_Tutoring)](https://github.com/HwangBBang/Private_Tutoring)  
- + developing casino simulation project.   
- + [Go to Baccarat's README](https://github.com/HwangBBang/CasinoProject/tree/main/Baccarat#readme)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=PS_Work_Space)](https://github.com/HwangBBang/PS_Work_Space)  
+ + [PS] 문제의 풀이를 기록합니다
+ 
   </td>
   <td>
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YangJinHyeok&theme=dark&repo=T01402201-Team-4)](https://github.com/YangJinHyeok/T01402201-Team-4)
-+ developing Unity game project.
-+ [Go to CrazyArcade's README](https://github.com/YangJinHyeok/T01402201-Team-4/blob/develop/README.md)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=T-MA)](https://github.com/HwangBBang/T-MA)
++ Tutoring Management Application
++ [Go to T-MA's README](https://github.com/HwangBBang/T-MA/README.md)
   </td> 
  </tr></table>
 
