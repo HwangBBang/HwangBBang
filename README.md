@@ -20,7 +20,9 @@
  <table ><tr>
   <td>
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=CasinoProject)](https://github.com/HwangBBang/CasinoProject)  
+   
+   
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=Private_Tutoring)](https://github.com/HwangBBang/Private_Tutoring)  
  + developing casino simulation project.   
  + [Go to Baccarat's README](https://github.com/HwangBBang/CasinoProject/tree/main/Baccarat#readme)
   </td>
