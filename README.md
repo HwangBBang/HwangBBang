@@ -225,8 +225,8 @@
 
 ### 🔥 A field of Interest
   
-+ Design Pattern of Python for Object Oriented Programming
-+ RISC-V instruction set architecture (ISA)
+- Clean Code
+  
  
  
 <p align="right">
