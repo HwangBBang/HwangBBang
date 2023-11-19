@@ -29,7 +29,6 @@
   <td>
   
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=T-MA)](https://github.com/HwangBBang/T-MA)
-+ Tutoring Management Application
 + [Go to T-MA's README](https://github.com/HwangBBang/T-MA/README.md)
   </td> 
  </tr></table>
