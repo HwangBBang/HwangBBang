@@ -147,6 +147,9 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
 <code><img title="Vim" alt="vim" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></code>
+<code><img title="Grafana" alt="grafana" width="40px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
+          
             
           
 <br><br>
