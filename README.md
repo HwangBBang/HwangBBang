@@ -180,10 +180,14 @@
 <br><br> 
 ## 📚 Learning
 
+          
+          
+<code><img title="Java" alt="java" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code><img title="Spring" alt="spring" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
 <code><img title="C" alt="c" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img title="Cpp" alt="cpp" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
 <code><img title="Mysql" alt="mysql" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img title="React" alt="react" width="40px" 
