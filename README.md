@@ -190,10 +190,11 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="Mysql" alt="mysql" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
-<code><img title="React" alt="react" width="40px" 
+
+<!--<code><img title="React" alt="react" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="TypeScript" alt="typescript" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>-->
 <br><br>
 ## 📑 What i've done
 
