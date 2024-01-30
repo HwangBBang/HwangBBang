@@ -28,8 +28,8 @@
   </td>
   <td>
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=T-MA)](https://github.com/HwangBBang/T-MA)
-+ [Go to T-MA's README](https://github.com/HwangBBang/T-MA/README.md)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=Dev_2024)](https://github.com/HwangBBang/Dev_2024)
++ [Spring & OOP](https://github.com/HwangBBang/Dev_2024/README.md)
   </td> 
  </tr></table>
 
