@@ -141,15 +141,14 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /></code>
 <code><img title="Vscode" alt="vscode" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="Eclipse" alt="eclipse" width="40px"
-           src="https://skillicons.dev/icons?i=eclipse" /></code>
 <code><img title="Unity" alt="unity" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
 <code><img title="Vim" alt="vim" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></code>
 <code><img title="Grafana" alt="grafana" width="40px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
-          
+<!-- <code><img title="Eclipse" alt="eclipse" width="40px"
+           src="https://skillicons.dev/icons?i=eclipse" /></code>--> 
             
           
 <br><br>
@@ -220,15 +219,17 @@
 [BaekJoon](https://github.com/HwangBBang/BaekJoon)  
 [Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022) -->
 <br><br>
-## :snake: Snake that eats mine 
 
+<!--
+## :snake: Snake that eats mine 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="snake eating my contribution" src="github-snake.svg" />
 </picture>
 <br> 
- 
+-->  
+
 ---
 
 
