@@ -41,17 +41,17 @@
 
 <h2>:octocat: My GitHub Stats </h2>
 <details>
- <summary>💫 Experience</summary><br>
+ <summary>💫 Experience</summary>
    <p>
-    
-  - Private Tutoring Activities as a Python and Algorithm Instructor.
-  - The Coding club. Tutoring Activities as a C, Python Instructor.
-  - [Organized, planned and led a C/C++ study group.](https://brash-partner-0d2.notion.site/Ids-Lab-Cpp-Study-d24280ac40cc4aaca4082666720b5f9c?pvs=4)
-  - [HUFS Intelligent Database System Lab. Undergraduate student.](http://ids.hufs.ac.kr/)
-  - [Organized, planned and led a JavaScript study group.](https://github.com/HwangBBang/JS_Study)
-  - [Participated in a 2023 HUFSummer Hackathon](https://github.com/kimjisub/careero)
-  - [Participated in a Venture Start-up Hackathon](https://github.com/kimjisub/event-form)
 
+  - (23.12) [2024 Kakao Recruitment Linked Winter Internship] Passed the coding test and resume
+  - [(23.08) Participated in a Venture Start-up Hackathon](https://github.com/kimjisub/event-form)
+  - [(23.07 ~ 23.08) Organized, planned and led a C/C++ study group.](https://brash-partner-0d2.notion.site/Ids-Lab-Cpp-Study-d24280ac40cc4aaca4082666720b5f9c?pvs=4)
+  - [(23.06) Participated in a 2023 HUFSummer Hackathon](https://github.com/kimjisub/careero)
+  - (23.04 ~ ) Private Tutoring Activities as a Python and Algorithm Instructor.
+  - [(23.03 ~ 23.12) HUFS Intelligent Database System Lab. Undergraduate student.](http://ids.hufs.ac.kr/)
+  - (22.12 ~ 23.05) The Coding club. Tutoring Activities as a C, Python Instructor.
+  - [(22.07 ~ 22.09) Organized, planned and led a JavaScript study group.](https://github.com/HwangBBang/JS_Study)
    </p>
 </details>
 <details>
