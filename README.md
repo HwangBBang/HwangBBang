@@ -35,8 +35,6 @@
 
 
 
-
-
 <!-- 깃헙 Stats -->
 
 <h2>:octocat: My GitHub Stats </h2>
@@ -51,16 +49,12 @@
   - (23.04 ~ ) Private Tutoring Activities as a Python and Algorithm Instructor.
   - [(23.03 ~ 23.12) HUFS Intelligent Database System Lab. Undergraduate student.](http://ids.hufs.ac.kr/)
   - (22.12 ~ 23.05) The Coding club. Tutoring Activities as a C, Python Instructor.
+  - [(22.11) [4th HUFS Code Festival] Beginner Track TOP-7](https://hufs.goorm.io/learn/lecture/34043/%EC%A0%9C-4%ED%9A%8C-hufs-code-festival-beginner-track/exam)
   - [(22.07 ~ 22.09) Organized, planned and led a JavaScript study group.](https://github.com/HwangBBang/JS_Study)
    </p>
 </details>
 <details>
- <summary>🏆 Achievements</summary><br>
-  <p align = "center">
-   
-   [![trophy](https://github-profile-trophy.vercel.app/?username=HwangBBang&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
-   
- </p>
+ <summary>🏆 Achievements</summary>
  <p>
   
   - [_2022 HUFS Code Festival - Beginner Track TOP-7_](https://hufs.goorm.io/learn/lecture/34043/%EC%A0%9C-4%ED%9A%8C-hufs-code-festival-beginner-track/exam)
@@ -74,8 +68,12 @@
 <summary>📊 General Stats</summary>
  <div align = "center">
   
-  ![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&show_icons=true)</details>
- 
+  ![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&show_icons=true) 
+  
+  <a href="https://opgc.me/#/users/HWANGBBANG" target="_blank"><img src="https://api.opgc.me/githubs/users/HWANGBBANG/tag/?theme=basic" /></a>
+  
+</details>
+  
  </div>
 <details>
  <summary> 🧬 3D Stats</summary>
@@ -104,12 +102,9 @@
 
 <details>
 <summary> 📈Contribution Graph</summary>
- 
- <p align = "center">
-  <a href="https://opgc.me/#/users/HWANGBBANG" target="_blank"><img src="https://api.opgc.me/githubs/users/HWANGBBANG/tag/?theme=basic" /></a>
   
- ![HwangBBang's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HwangBBang&area=true&hide_border=true&bg_color=FFFFFFF&line=000&point=333333&color=333&area_color=333)
- 
+ <!-- ![HwangBBang's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HwangBBang&area=true&hide_border=true&bg_color=FFFFFFF&line=000&point=333333&color=333&area_color=333)-->
+  
  </p>
  
 </details>
