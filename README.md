@@ -142,8 +142,8 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></code>
 <code><img title="Grafana" alt="grafana" width="40px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
-<!-- <code><img title="Eclipse" alt="eclipse" width="40px"
-           src="https://skillicons.dev/icons?i=eclipse" /></code>--> 
+<code><img title="AWS" alt="aws" width="40px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
             
           
 <br><br>
