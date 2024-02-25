@@ -22,8 +22,9 @@
    
    
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=PS_Work_Space)](https://github.com/HwangBBang/PS_Work_Space)  
- + [PS] 문제의 풀이를 기록합니다
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=HUFS_RESERVATION_BackEnd)](https://github.com/HwangBBang/HUFS_RESERVATION_BackEnd)
+
+ + [PS] HUFS Study-Room reservation service Backend
  
   </td>
   <td>
