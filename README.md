@@ -12,7 +12,8 @@
 <!-- 방문자,백준 -->
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com) 
  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/profile/h1009218)<br>
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/profile/h1009218)[![wakatime](https://wakatime.com/badge/user/018de573-f2ae-46c4-abbe-17d615724806.svg)](https://wakatime.com/@018de573-f2ae-46c4-abbe-17d615724806)
+<br>
 
 
 # 🃏 Current activity
@@ -86,7 +87,9 @@
 <summary>💼 Top languages</summary>
  <div align = "center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang)](https://github.com/HwangBBang/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&hide=jupyter%20notebook&layout=compact)](https://github.com/HwangBBang/github-readme-stats)
+
+  [![HwangBBang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HwangBBang)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
  </details> 
