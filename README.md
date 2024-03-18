@@ -152,21 +152,22 @@
           
 <br><br>
 ##  💡 Languages & Frameworks   
-
+<code><img title="Java" alt="java" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code><img title="Spring" alt="spring" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
 <code><img title="Python" alt="python" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="Mysql" alt="mysql" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img title="Cplusplus" alt="cplusplus" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
 <code><img title="C" alt="c" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="C#" alt="c#" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
-<code><img title="Java" alt="java" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img title="Javascript" alt="javascript" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="Mysql" alt="mysql" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img title="Markdown" alt="markdown" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 <code><img title="Html5" alt="html5" width="40px"
