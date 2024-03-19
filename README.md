@@ -23,15 +23,15 @@
    
    
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=HUFS_RESERVATION_BackEnd)](https://github.com/HwangBBang/HUFS_RESERVATION_BackEnd)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hufs-hexagon-talent&theme=dark&repo=studyroom-reservation-service)](https://github.com/hufs-hexagon-talent/studyroom-reservation-service)
 
  + [PS] HUFS Study-Room reservation service Backend
  
   </td>
   <td>
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=Dev_2024)](https://github.com/HwangBBang/Dev_2024)
-+ [Spring & OOP](https://github.com/HwangBBang/Dev_2024/README.md)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=dev-archive-2024)](https://github.com/HwangBBang/dev-archive-2024)
++ [Spring & OOP](https://github.com/HwangBBang/dev-archive-2024/README.md)
   </td> 
  </tr></table>
 
@@ -52,7 +52,7 @@
   - [(23.03 ~ 23.12) HUFS Intelligent Database System Lab. Undergraduate student.](http://ids.hufs.ac.kr/)
   - (22.12 ~ 23.05) The Coding club. Tutoring Activities as a C, Python Instructor.
   - [(22.11) [4th HUFS Code Festival] Beginner Track TOP-7](https://hufs.goorm.io/learn/lecture/34043/%EC%A0%9C-4%ED%9A%8C-hufs-code-festival-beginner-track/exam)
-  - [(22.07 ~ 22.09) Organized, planned and led a JavaScript study group.](https://github.com/HwangBBang/JS_Study)
+  - [(22.07 ~ 22.09) Organized, planned and led a JavaScript study group.](https://github.com/HwangBBang/JS-study)
    </p>
 </details>
 <details>
@@ -212,12 +212,14 @@
 <br><br>
 -->
 <br><br>
-## ⚡️ DEMO REPO 
 
+
+
+<!-- 
+## ⚡️ DEMO REPO 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=Mini_Project)](https://github.com/HwangBBang/Mini_Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=JS_Study)](https://github.com/HwangBBang/JS_Study)
-
-<!-- [Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
+[Java_Practice_2022](https://github.com/HwangBBang/JAVA_Practice_2022)  
 [Python_Practice_2022](https://github.com/HwangBBang/Python_Practice_2022)  
 [Mini_Project](https://github.com/HwangBBang/Mini_Project)  
 [Team-KKLHY](https://github.com/HwangBBang/team-KKLHY)  
