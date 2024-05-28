@@ -21,7 +21,7 @@
 + [HUFS Study Room Reservation](https://github.com/orgs/hufs-hexagon-talent/repositories) (2024.02 ~ 현재)
 
   + 한국 외국어 대학교 컴퓨터 공학과 학부생들을 위한 스터디 룸 예약 웹/앱 서비스 
-  + DB 설계 및 RESTFul API Server 개발
+  + DB 설계, RESTFul API Server 개발, CI 환경 구축
     
 <!--
  <table ><tr>
