@@ -53,7 +53,8 @@
 <details>
  <summary>💫 Experience</summary>
    <p>
-
+    
+  - [(24.06) 2024-1 HUFS Capstone Design and Lab / Real-Time Inspection Imaging App](https://github.com/user-attachments/assets/f984fc40-44a1-40a9-b841-6bc3fc683b20)
   - (23.12) [2024 Kakao Recruitment Linked Winter Internship] Passed the coding test and resume
   - [(23.08) Participated in a Venture Start-up Hackathon](https://github.com/kimjisub/event-form)
   - [(23.07 ~ 23.08) Organized, planned and led a C/C++ study group.](https://brash-partner-0d2.notion.site/Ids-Lab-Cpp-Study-d24280ac40cc4aaca4082666720b5f9c?pvs=4)
@@ -69,7 +70,7 @@
  <summary>🏆 Achievements</summary>
  <p>
   
-  - [ 2024-1 HUFS 캡스톤 설계 및 실습 / 실시간 검품 이미지 촬영 앱  - 최우수팀 선정 (Team lead) ](https://github.com/user-attachments/files/16767378/default.pdf)
+  - [_2024-1 HUFS 캡스톤 설계 및 실습 / 실시간 검품 이미지 촬영 앱  - 최우수팀 선정 (Team lead)_](https://github.com/user-attachments/assets/f984fc40-44a1-40a9-b841-6bc3fc683b20)
 
   - [_2022 HUFS Code Festival - Beginner Track TOP-7_](https://hufs.goorm.io/learn/lecture/34043/%EC%A0%9C-4%ED%9A%8C-hufs-code-festival-beginner-track/exam)
   
