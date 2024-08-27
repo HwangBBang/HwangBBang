@@ -69,7 +69,7 @@
  <summary>🏆 Achievements</summary>
  <p>
   
-  - 2024-1 HUFS 캡스톤 설계 및 실습 - 우수팀 선정 / 실시간 검품 이미지 촬영 앱 (Team lead) 
+  - [ 2024-1 HUFS 캡스톤 설계 및 실습 / 실시간 검품 이미지 촬영 앱  - 최우수팀 선정 (Team lead) ](https://github.com/user-attachments/files/16767378/default.pdf)
 
   - [_2022 HUFS Code Festival - Beginner Track TOP-7_](https://hufs.goorm.io/learn/lecture/34043/%EC%A0%9C-4%ED%9A%8C-hufs-code-festival-beginner-track/exam)
   
