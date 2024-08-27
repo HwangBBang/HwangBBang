@@ -239,15 +239,15 @@
 [Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022) -->
 <br><br>
 
-<!--
-## :snake: Snake that eats mine 
+
+## :snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="snake eating my contribution" src="github-snake.svg" />
 </picture>
 <br> 
--->  
+
 
 ---
 
