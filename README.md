@@ -18,16 +18,16 @@
 
 # 🃏 Current activity
 
-+ [HUFS Study Room Reservation](https://studyroom.computer.hufs.ac.kr/) (2024.02 ~ 2024.08)
-  
-  + 시범 운영 : 2024.08 ~ 2024.12
++ [HUFS Study Room Reservation](https://studyroom.computer.hufs.ac.kr/) (2024.02 ~ 현재)
+  + MVP 개발 : 2024.02 ~ 2024.05
+  + 시범 운영 및 서비스 도메인 확장: 2024.08 ~ 
   + 한국 외국어 대학교 컴퓨터 공학과 학부생들을 위한 스터디 룸 예약 웹/앱 서비스 
-  + DB 설계, RESTFul API Server 개발, CI 환경 구축
+  + DB 설계, RESTFul API Server 개발, CI 환경 구축, 운영
     
 + [INTERNATIONAL TRADE SPECIALIST.edu](https://github.com/hexagon-talent/its-service) (2024.07 ~ 현재)
 
   + 국제 무역사 학습 웹/앱 서비스
-  + 기획 , DB 설계 
+  + 기획, DB 설계, RESTFul API Server 개발, CI/CD 환경 구축 
     
 <!--
  <table ><tr>
@@ -158,11 +158,11 @@
 <code><img title="Vim" alt="vim" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></code>
 <code><img title="Grafana" alt="grafana" width="40px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
 <code><img title="AWS" alt="aws" width="40px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
-            
-          
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
+<code><img title="Azure" alt="azure" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /></code>
 <br><br>
 ##  💡 Languages & Frameworks   
 <code><img title="Java" alt="java" width="40px" 
@@ -171,8 +171,6 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
 <code><img title="Python" alt="python" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="Mysql" alt="mysql" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img title="Cplusplus" alt="cplusplus" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
 <code><img title="C" alt="c" width="40px" 
@@ -183,27 +181,27 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Markdown" alt="markdown" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
-<code><img title="Html5" alt="html5" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS" alt="css" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code> 
 <code><img title="Bash" alt="bash" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
-
-<br><br> 
-
+<br><br>
+##  🗂️ DB
+<code><img title="Mysql" alt="mysql" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
+<code><img title="Redis" alt="redis" width="40px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" /></code>
+<code><img title="Mongodb" alt="mongodb" width="40px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></code>
+<br><br>
 ## 📚 Learning
-
-          
-          
 <code><img title="Java" alt="java" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img title="Spring" alt="spring" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
-<code><img title="Mysql" alt="mysql" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
-<code><img title="Docker" alt="docker" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></code>   
+<code><img title="Mongodb" alt="mongodb" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></code>
+<code><img title="Kubernetes" alt="kubernetes" width="40px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" /></code>
+          
            
 <!--
 <code><img title="React" alt="react" width="40px" 
