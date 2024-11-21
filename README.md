@@ -139,50 +139,62 @@
 <br>
 
 ## 🛠 Tools I use 
-<code><img title="Apple" alt="apple" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
-<code><img title="Ubuntu" alt="ubuntu" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+
 <code><img title="Git" alt="git" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="Sourcetree" alt="sourcetree" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
- <code><img title="Anaconda" alt="anaconda" width="40px" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /></code>
+<code><img title="Intellij" alt="intellij" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /></code>
 <code><img title="Vscode" alt="vscode" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="Unity" alt="unity" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
 <code><img title="Vim" alt="vim" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></code>
-<code><img title="Grafana" alt="grafana" width="40px"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
+<code><img title="Datagrip" alt="datagrip" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" /></code>
+           
 <code><img title="AWS" alt="aws" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
 <code><img title="Azure" alt="azure" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /></code>
-<br><br>
-##  💡 Languages & Frameworks   
-<code><img title="Java" alt="java" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
-<code><img title="Spring" alt="spring" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
-<code><img title="Python" alt="python" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+
+<code><img title="Grafana" alt="grafana" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" /></code>
+<!--
+<code><img title="Apple" alt="apple" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Sourcetree" alt="sourcetree" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="Anaconda" alt="anaconda" width="40px" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /></code>
+<code><img title="Unity" alt="unity" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></code>
+<code><img title="Markdown" alt="markdown" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code><img title="Bash" alt="bash" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
 <code><img title="Cplusplus" alt="cplusplus" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></code>
 <code><img title="C" alt="c" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="C#" alt="c#" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
-<code><img title="Javascript" alt="javascript" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="Markdown" alt="markdown" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
-<code><img title="Bash" alt="bash" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
+<code><img title="Kubernetes" alt="kubernetes" width="40px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" /></code>
+--> 
+<br><br>
+##  💡 Languages & Frameworks   
+<code><img title="Java" alt="java" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code><img title="Python" alt="python" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="Typescript" alt="typescript" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></code>
+<code><img title="Spring" alt="spring" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
+
 <br><br>
 ##  🗂️ DB
 <code><img title="Mysql" alt="mysql" width="40px"
@@ -192,15 +204,20 @@
 <code><img title="Mongodb" alt="mongodb" width="40px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></code>
 <br><br>
+
 ## 📚 Learning
-<code><img title="Java" alt="java" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code><img title="Nestjs" alt="nestjs" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></code>
 <code><img title="Spring" alt="spring" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
 <code><img title="Mongodb" alt="mongodb" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></code>
-<code><img title="Kubernetes" alt="kubernetes" width="40px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" /></code>
+<code><img title="Typescript" alt="typescript" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></code>
+
+
+          
+            
           
            
 <!--
