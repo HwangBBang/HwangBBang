@@ -14,9 +14,19 @@ jobs:
       - name: Generate Snake Game From GitHub Contribution Grid
         uses: Platane/snk@v3.0.0
         with:
-          # GitHub 사용자 이름 설정 (필수)
+          # GitHub 사용자 이름 설정 
           github_user_name: HwangBBang
           # 출력 파일과 옵션 설정
           outputs: |
             dark.svg?palette=github-dark
             light.svg?palette=github-light
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+      
+      # 생성된 파일을 output 브랜치에 푸시
+      - name: 📤 Push generated files to the output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
