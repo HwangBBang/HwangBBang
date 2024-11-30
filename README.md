@@ -144,8 +144,13 @@
 
 <code><img title="Git" alt="git" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Gitkraken" alt="gitkraken" width="40px" 
+           src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" /></code>
+           
 <code><img title="Intellij" alt="intellij" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /></code>
+<code><img title="Webstorm" alt="webstorm" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" /></code>
 <code><img title="Vscode" alt="vscode" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="Vim" alt="vim" width="40px"
