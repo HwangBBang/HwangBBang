@@ -18,8 +18,8 @@ jobs:
           github_user_name: HwangBBang
           # 출력 파일과 옵션 설정
           outputs: |
-            dark.svg?palette=github-dark
-            light.svg?palette=github-light
+             dist/github-snake-dark.svg?palette=github-dark
+             dist/github-snake.svg?palette=github-light
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
       
