@@ -2,33 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 18 * * *" # 매일 UTC 기준 오후 6시에 실행
-  workflow_dispatch: {} # 수동 실행 가능
+    - cron: "0 18 * * *"
+  workflow_dispatch: {}
 
 jobs:
-  job:
-    name: 🐍 Update snake animation
+  generate:
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      # 라이트 모드용 SVG 생성
-      - name: ⚙ Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+      # GitHub User Contribution Snake
+      - name: Generate Snake Game From GitHub Contribution Grid
+        uses: Platane/snk@v3.0.0
         with:
+          # GitHub 사용자 이름 설정 (필수)
           github_user_name: HwangBBang
+          # 출력 파일과 옵션 설정
           outputs: |
-            dist/github-snake.svg
-      # 다크 모드용 SVG 생성
-      - name: ⚙ Generate github-contribution-grid-snake-dark.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: HwangBBang
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-      # 생성된 파일을 output 브랜치에 푸시
-      - name: 📤 Push generated files to the output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+            dark.svg?palette=github-dark
+            light.svg?palette=github-light
