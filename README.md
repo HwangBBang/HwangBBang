@@ -90,11 +90,13 @@
 </details>
   
  </div>
+
+<!--
 <details>
  <summary> 🧬 3D Stats</summary>
- 
  ![My Stats](./profile-3d-contrib/profile-gitblock.svg)
 </details>
+-->
 
 <details>
 <summary>💼 Top languages</summary>
@@ -256,12 +258,12 @@
 <br><br>
 
 
-## :snake:
+## 🐍 GitHub Snake Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://HwangBBang.github.io/HwangBBang/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://HwangBBang.github.io/HwangBBang/github-snake.svg" />
+  <img alt="github-snake" src="https://HwangBBang.github.io/HwangBBang/github-snake.svg" />
 </picture>
 
 <br> 
