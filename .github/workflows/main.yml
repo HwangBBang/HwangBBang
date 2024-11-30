@@ -15,14 +15,14 @@ jobs:
       - name: ⚙ Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: HwangBBang
           outputs: |
             dist/github-snake.svg
       # 다크 모드용 SVG 생성
       - name: ⚙ Generate github-contribution-grid-snake-dark.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: HwangBBang
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
       # 생성된 파일을 output 브랜치에 푸시
