@@ -18,6 +18,9 @@
 
 # 🃏 Current activity
 
++ [SiliconBridge] Server 개발 (2024.12 ~ 현재)
+
+
 + [HUFS Study Room Reservation](https://studyroom.computer.hufs.ac.kr/) (2024.02 ~ 현재)
   + MVP 개발 : 2024.02 ~ 2024.05
   + 시범 운영 및 서비스 도메인 확장: 2024.08 ~ 
@@ -201,7 +204,9 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></code>
 <code><img title="Spring" alt="spring" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
-
+<code><img title="Nestjs" alt="nestjs" width="40px" 
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></code>
+           
 <br><br>
 ##  🗂️ DB
 <code><img title="Mysql" alt="mysql" width="40px"
