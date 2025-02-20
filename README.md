@@ -23,14 +23,20 @@
 
 + [HUFS Study Room Reservation](https://studyroom.computer.hufs.ac.kr/) (2024.02 ~ 현재)
   + MVP 개발 : 2024.02 ~ 2024.05
-  + 시범 운영 및 서비스 도메인 확장: 2024.08 ~ 
+  + 서비스 도메인 확장: 2024.08 ~ 2024.11
+  + 시범 운영:  2024.08 ~ 2024.12
   + 한국 외국어 대학교 컴퓨터 공학과 학부생들을 위한 스터디 룸 예약 웹/앱 서비스 
   + DB 설계, RESTFul API Server 개발, CI 환경 구축, 운영
     
-+ [INTERNATIONAL TRADE SPECIALIST.edu](https://github.com/hexagon-talent/its-service) (2024.07 ~ 현재)
++ [INTERNATIONAL TRADE SPECIALIST.edu](https://github.com/hexagon-talent/its-service) (2024.07 ~ 중단)
 
   + 국제 무역사 학습 웹/앱 서비스
   + 기획, DB 설계, RESTFul API Server 개발, CI/CD 환경 구축 
+
++ [FLU](https://github.com/hexagon-talent/its-service) (2025.02 ~ 현재)
+
+  + 독감 예방 접종 가능 안내 서비스 
+  + DB 설계, RESTFul API Server 개발, CI/CD 환경 구축
     
 <!--
  <table ><tr>
