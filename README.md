@@ -33,7 +33,7 @@
   + 국제 무역사 학습 웹/앱 서비스
   + 기획, DB 설계, RESTFul API Server 개발, CI/CD 환경 구축 
 
-+ [FLU](https://github.com/hexagon-talent/its-service) (2025.02 ~ 현재)
++ [FLU](https://github.com/orgs/its-hexagon/repositories) (2025.02 ~ 현재)
 
   + 독감 예방 접종 가능 안내 서비스 
   + DB 설계, RESTFul API Server 개발, CI/CD 환경 구축
