@@ -3,14 +3,18 @@
  
  <!-- 노션,블로그,벨로그 -->
  <a href = "https://brash-partner-0d2.notion.site/Hwang-Byeoung-Hoon-804f85fc028e4319b4a8896434a0e20f" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://brash-partner-0d2.notion.site/Hwang-Byeoung-Hoon-804f85fc028e4319b4a8896434a0e20f"> </a>
-<a href = "https://blog.naver.com/h1009218" target="_blank"><img src="https://img.shields.io/badge/Book-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link = https://blog.naver.com/h1009218"></a>
-<a href = "https://velog.io/@hwang_bbang" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link = https://velog.io/@hwang_bbang"> </a> 
 <a href = "https://hwangbbang.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech-000000?style=for-the-badge&logo=Tistory&logoColor=#000000&link = https://hwangbbang.tistory.com"> </a>
- 
+
+ <!--
+ <a href = "https://blog.naver.com/h1009218" target="_blank"><img src="https://img.shields.io/badge/Book-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link = https://blog.naver.com/h1009218"></a>
+<a href = "https://velog.io/@hwang_bbang" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link = https://velog.io/@hwang_bbang"> </a> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
+-->
  
 
 <!-- 방문자,백준 -->
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com) 
+ 
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/profile/h1009218)[![wakatime](https://wakatime.com/badge/user/018de573-f2ae-46c4-abbe-17d615724806.svg)](https://wakatime.com/@018de573-f2ae-46c4-abbe-17d615724806)
 <br>
