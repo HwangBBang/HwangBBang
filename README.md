@@ -22,7 +22,7 @@
 
 # 🃏 Current activity
 
-+ [SiliconBridge] Server 개발 (2024.12 ~ 현재)
++ [SiliconBridge] Server 개발 (2024.12 ~ 2025.05)
 
 
 + [HUFS Study Room Reservation](https://studyroom.computer.hufs.ac.kr/) (2024.02 ~ 현재)
