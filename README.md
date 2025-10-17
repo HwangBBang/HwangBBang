@@ -205,7 +205,7 @@
 <code><img title="Python" alt="python" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="Typescript" alt="typescript" width="40px" 
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></code>
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></code><br><br>
 <code><img title="Spring" alt="spring" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
 <code><img title="Nestjs" alt="nestjs" width="40px" 
@@ -215,12 +215,17 @@
 ##  🗂️ DB
 <code><img title="Mysql" alt="mysql" width="40px"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
+<code><img title="Postgresql" alt="postgresql" width="40px"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></code>
 <code><img title="Redis" alt="redis" width="40px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" /></code>
 <code><img title="Mongodb" alt="mongodb" width="40px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></code>
 <br><br>
 
+
+           
+<!--
 ## 📚 Learning
 <code><img title="Nestjs" alt="nestjs" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></code>
@@ -230,13 +235,6 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></code>
 <code><img title="Typescript" alt="typescript" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></code>
-
-
-          
-            
-          
-           
-<!--
 <code><img title="React" alt="react" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="TypeScript" alt="typescript" width="40px" 
