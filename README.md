@@ -62,7 +62,6 @@
    <p>
     
   - [(24.06) 2024-1 HUFS Capstone Design and Lab / Real-Time Inspection Imaging App](https://github.com/user-attachments/assets/f984fc40-44a1-40a9-b841-6bc3fc683b20)
-  - (23.12) [2024 Kakao Recruitment Linked Winter Internship] Passed the coding test and resume
   - [(23.08) Participated in a Venture Start-up Hackathon](https://github.com/kimjisub/event-form)
   - [(23.07 ~ 23.08) Organized, planned and led a C/C++ study group.](https://brash-partner-0d2.notion.site/Ids-Lab-Cpp-Study-d24280ac40cc4aaca4082666720b5f9c?pvs=4)
   - [(23.06) Participated in a 2023 HUFSummer Hackathon](https://github.com/kimjisub/careero)
