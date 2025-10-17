@@ -25,10 +25,10 @@
 + [SiliconBridge] Server 개발 (2024.12 ~ 2025.05)
 
 
-+ [HUFS Study Room Reservation](https://studyroom.computer.hufs.ac.kr/) (2024.02 ~ 현재)
++ [한국외대 공간 예약 서비스(상용 서비스)](https://studyroom.computer.hufs.ac.kr/) (2024.02 ~ 현재)
   + 시범 운영:  2024.08 ~ 2025.06
   + 정식 운영:  2025.09 ~ 
-  + 한국 외국어 대학교 컴퓨터 공학과 학부생들을 위한 스터디 룸 예약 웹/앱 서비스 
+  + 한국 외국어 대학교 컴퓨터 공학과 학부생들을 위한 공간 예약 서비스 
   + DB 설계, RESTFul API Server 개발, CI 환경 구축, 운영
     
 + [INTERNATIONAL TRADE SPECIALIST.edu](https://github.com/hexagon-talent/its-service) (2024.07 ~ 중단)
