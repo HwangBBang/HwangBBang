@@ -1,14 +1,14 @@
-
-### Byunghun Hwang    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:h1009218@hufs.ac.kr)](mailto:h1009218@hufs.ac.kr) 
- 
+### Byunghun Hwang    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwangbbang9@gmail.com)](mailto:hwangbbang9@gmail.com)
  <!-- 노션,블로그,벨로그 -->
- <a href = "https://brash-partner-0d2.notion.site/Hwang-Byeoung-Hoon-804f85fc028e4319b4a8896434a0e20f" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://brash-partner-0d2.notion.site/Hwang-Byeoung-Hoon-804f85fc028e4319b4a8896434a0e20f"> </a>
-<a href = "https://hwangbbang.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech-000000?style=for-the-badge&logo=Tistory&logoColor=#000000&link = https://hwangbbang.tistory.com"> </a>
-
  <!--
+ [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://brash-partner-0d2.notion.site/Hwang-Byeoung-Hoon-804f85fc028e4319b4a8896434a0e20f)
+[![Tech Blog](https://img.shields.io/badge/Tech-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://hwangbbang.tistory.com)
+ 
  <a href = "https://blog.naver.com/h1009218" target="_blank"><img src="https://img.shields.io/badge/Book-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link = https://blog.naver.com/h1009218"></a>
 <a href = "https://velog.io/@hwang_bbang" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link = https://velog.io/@hwang_bbang"> </a> 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangBBang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Visits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FHwangBBang?color=green&label=visits&size=small&base_count=12378)](https://myhits.vercel.app)
 
 -->
  
@@ -16,13 +16,13 @@
 <!-- 방문자,백준 -->
  
  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/profile/h1009218)[![wakatime](https://wakatime.com/badge/user/018de573-f2ae-46c4-abbe-17d615724806.svg)](https://wakatime.com/@018de573-f2ae-46c4-abbe-17d615724806)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=h1009218)](https://solved.ac/profile/h1009218)
+[![wakatime](https://wakatime.com/badge/user/018de573-f2ae-46c4-abbe-17d615724806.svg)](https://wakatime.com/@018de573-f2ae-46c4-abbe-17d615724806)
 <br>
 
 
-# 🃏 Current activity
 
-+ [SiliconBridge] Server 개발 (2024.12 ~ 2025.05)
+# 🃏 Current activity
 
 
 + [한국외대 공간 예약 서비스(상용 서비스)](https://studyroom.computer.hufs.ac.kr/) (2024.02 ~ 현재)
@@ -30,8 +30,10 @@
   + 정식 운영:  2025.09 ~ 
   + 한국 외국어 대학교 컴퓨터 공학과 학부생들을 위한 공간 예약 서비스 
   + DB 설계, RESTFul API Server 개발, CI 환경 구축, 운영
-    
-+ [INTERNATIONAL TRADE SPECIALIST.edu](https://github.com/hexagon-talent/its-service) (2024.07 ~ 중단)
+
++ [SiliconBridge] 서버 개발 (2024.12 ~ 2025.05)
+ 
++ [INTERNATIONAL TRADE SPECIALIST.edu](https://github.com/hexagon-talent/its-service) (2024.07 ~ 2024.11)
 
   + 국제 무역사 학습 웹/앱 서비스
   + 기획, DB 설계, RESTFul API Server 개발, CI/CD 환경 구축 
@@ -56,7 +58,7 @@
 
 <!-- 깃헙 Stats -->
 
-<h2>:octocat: My GitHub Stats </h2>
+<h2>💬 About Me </h2>
 <details>
  <summary>💫 Experience</summary>
    <p>
@@ -76,26 +78,57 @@
  <summary>🏆 Achievements</summary>
  <p>
   
-  - [_2024-1 HUFS 캡스톤 설계 및 실습 / 실시간 검품 이미지 촬영 앱  - 최우수팀 선정 (Team lead)_](https://github.com/user-attachments/assets/f984fc40-44a1-40a9-b841-6bc3fc683b20)
-
   - [_2022 HUFS Code Festival - Beginner Track TOP-7_](https://hufs.goorm.io/learn/lecture/34043/%EC%A0%9C-4%ED%9A%8C-hufs-code-festival-beginner-track/exam)
   
   - [_2023 HUFSummer Hackathon 한국외국어대학교 총장상(대상) 수상_](https://github.com/HwangBBang/careero)
-    
+
+  - [_2024-1 HUFS 캡스톤 설계 및 실습 / 실시간 검품 이미지 촬영 앱  - 최우수팀 선정 (Team lead)_](https://github.com/user-attachments/assets/f984fc40-44a1-40a9-b841-6bc3fc683b20)
+
  </p> 
 </details>
 
 <details>
-<summary>📊 General Stats</summary>
- <div align = "center">
-  
-  ![HwangBBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangBBang&show_icons=true) 
-  
-  <a href="https://opgc.me/#/users/HWANGBBANG" target="_blank"><img src="https://api.opgc.me/githubs/users/HWANGBBANG/tag/?theme=basic" /></a>
+<summary>📊 Top languages</summary>
+ <div align = "center"> <br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&hide=jupyter%20notebook&layout=compact)](https://github.com/HwangBBang/github-readme-stats)
+  [![HwangBBang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HwangBBang&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  </div>
+ </details> 
+ 
+<details>
+<summary>:octocat: GitHub Stats</summary>
+ <div align = "center"> <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=HwangBBang&show_icons=true"
+       height="180" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HwangBBang&hide_border=true"
+       height="180" alt="streak stats" />
+
+</a>
   
 </details>
   
  </div>
+ 
+<details>
+<summary> 📈Contribution Graph</summary> <br>
+ 
+  ![HwangBBang's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HwangBBang&area=true&hide_border=true&bg_color=FFFFFF&line=000&point=333333&color=333&area_color=333)  
+
+</details>
+ 
+<details> 
+<summary> 🏅 BOJ Stats</summary>
+ <div align = "center"> <br>  
+  
+   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h1009218)](https://solved.ac/h1009218)
+  <img src="http://mazandi.herokuapp.com/api?handle=h1009218&theme=warm"/> 
+ 
+ </div>
+</details>
 
 <!--
 <details>
@@ -103,46 +136,6 @@
  ![My Stats](./profile-3d-contrib/profile-gitblock.svg)
 </details>
 -->
-
-<details>
-<summary>💼 Top languages</summary>
- <div align = "center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangBBang&hide=jupyter%20notebook&layout=compact)](https://github.com/HwangBBang/github-readme-stats)
-
-  [![HwangBBang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HwangBBang)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
- </details> 
- 
-<details>
- 
-<summary> :fire: Streak stats</summary>
-  <div align = "center">
-    <a href="https://github.com/HwangBBang">
-        <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=HwangBBang&hide_border=true" alt="streak stats"/>
-    </a>
-  </div>
-</details>
-
-<details>
-<summary> 📈Contribution Graph</summary>
-  
- <!-- ![HwangBBang's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HwangBBang&area=true&hide_border=true&bg_color=FFFFFFF&line=000&point=333333&color=333&area_color=333)-->
-  
- </p>
- 
-</details>
- 
-<details> 
-<summary> 🏅 BOJ Stats</summary>
- <div align = "center">
-  
-   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h1009218)](https://solved.ac/h1009218)<br>
-  <img src="http://mazandi.herokuapp.com/api?handle=h1009218&theme=warm"/> 
- 
- </div>
-</details>
 
 <br>
 
@@ -220,9 +213,8 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" /></code>
 <code><img title="Mongodb" alt="mongodb" width="40px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></code>
+
 <br><br>
-
-
            
 <!--
 ## 📚 Learning
@@ -252,8 +244,6 @@
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <br><br>
 -->
-<br><br>
-
 
 
 <!-- 
@@ -266,7 +256,6 @@
 [Team-KKLHY](https://github.com/HwangBBang/team-KKLHY)  
 [BaekJoon](https://github.com/HwangBBang/BaekJoon)  
 [Html_Practice_2022](https://github.com/HwangBBang/HTML_Practice_2022) -->
-<br><br>
 
 
 ## 🐍 GitHub Snake Animation
