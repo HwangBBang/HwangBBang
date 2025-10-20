@@ -26,35 +26,19 @@
 
 
 + [한국외대 공간 예약 서비스(상용 서비스)](https://studyroom.computer.hufs.ac.kr/) (2024.02 ~ 현재)
-  + 시범 운영:  2024.08 ~ 2025.06
-  + 정식 운영:  2025.09 ~ 
-  + 한국 외국어 대학교 컴퓨터 공학과 학부생들을 위한 공간 예약 서비스 
+  + 한국 외국어 대학교 컴퓨터 공학과 학부생들을 위한 공간 예약 서비스
+    + 시범 운영:  2024.08 ~ 2025.06
+    + 정식 운영:  2025.08 ~ 
   + DB 설계, RESTFul API Server 개발, CI 환경 구축, 운영
 
-+ [SiliconBridge](https://www.eyevacs.com/) 서버 개발 (2024.12 ~ 2025.05)
++ [SiliconBridge](https://www.eyevacs.com/) (2024.12 ~ 2025.05)
+  + 아파트 주차 관제 서비스 
+  + RESTFul API Server 개발, 유지보수 및 비용 최적화, QA, DX 개선 
  
 + [INTERNATIONAL TRADE SPECIALIST.edu](https://github.com/hexagon-talent/its-service) (2024.07 ~ 2024.11)
-
   + 국제 무역사 학습 웹/앱 서비스
   + 기획, DB 설계, RESTFul API Server 개발, CI/CD 환경 구축 
     
-<!--
- <table ><tr>
-  <td>
-   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hufs-hexagon-talent&theme=dark&repo=studyroom-reservation-service)](https://github.com/hufs-hexagon-talent/studyroom-reservation-service)
-
- + [PS] HUFS Study-Room reservation service Backend
- 
-  </td>
-  <td>
-  
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangBBang&theme=dark&repo=dev-archive-2024)](https://github.com/HwangBBang/dev-archive-2024)
-+ [Spring & OOP](https://github.com/HwangBBang/dev-archive-2024/README.md)
-  </td> 
- </tr></table>
--->
-
 
 <!-- 깃헙 Stats -->
 
