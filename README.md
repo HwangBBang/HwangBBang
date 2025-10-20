@@ -31,7 +31,7 @@
   + 한국 외국어 대학교 컴퓨터 공학과 학부생들을 위한 공간 예약 서비스 
   + DB 설계, RESTFul API Server 개발, CI 환경 구축, 운영
 
-+ [SiliconBridge] 서버 개발 (2024.12 ~ 2025.05)
++ [SiliconBridge](https://www.eyevacs.com/) 서버 개발 (2024.12 ~ 2025.05)
  
 + [INTERNATIONAL TRADE SPECIALIST.edu](https://github.com/hexagon-talent/its-service) (2024.07 ~ 2024.11)
 
