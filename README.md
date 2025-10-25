@@ -24,17 +24,15 @@
 
 # 🃏 Current activity
 
-+ [한국외대 공간 예약 서비스(상용 서비스)](https://studyroom.computer.hufs.ac.kr/) | PO, BE개발 (2024.02 ~ 현재)
-  + 한국 외국어 대학교 컴퓨터 공학과 학부생들을 위한 공간 예약 서비스
-    + 시범 운영:  2024.08 ~ 2025.06
-    + 정식 운영:  2025.08 ~ 
+[한국외대 공간 예약 서비스](https://studyroom.computer.hufs.ac.kr/) | PO, BE개발 (2024.02 ~ 현재)
+  + 한국 외국어 대학교 컴퓨터 공학과 학부생들을 위한 공간 예약 상용 서비스
   + DB 설계, RESTFul API Server 개발, CI 환경 구축, 운영
 
-+ [SiliconBridge](https://www.eyevacs.com/) | 정규직, BE개발 (2024.12 ~ 2025.05)
+[SiliconBridge.Inc](https://www.eyevacs.com/) | 정규직, BE개발 (2024.12 ~ 2025.05)
   + 아파트 주차 관제 서비스 
   + RESTFul API Server 개발, 유지보수 및 비용 최적화, QA, DX 개선 
  
-+ [INTERNATIONAL TRADE SPECIALIST.edu](https://github.com/hexagon-talent/its-service) | PO, BE개발 (2024.07 ~ 2024.11)
+[ITS.edu](https://github.com/hexagon-talent/its-service) | PO, BE개발 (2024.07 ~ 2024.11)
   + 국제 무역사 학습 서비스
   + 기획, DB 설계, RESTFul API Server 개발, CI/CD 환경 구축 
     
