@@ -175,6 +175,9 @@
 --> 
 <br><br>
 ##  💡 Languages & Frameworks   
+
+<code><img title="Kotlin" alt="kotlin" width="40px" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/> </code>
 <code><img title="Java" alt="java" width="40px" 
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img title="Python" alt="python" width="40px" 
