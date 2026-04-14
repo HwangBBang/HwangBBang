@@ -65,7 +65,7 @@
   
   - [_2023 HUFSummer Hackathon 한국외국어대학교 총장상(대상) 수상_](https://github.com/HwangBBang/careero)
 
-  - [_2024-1 HUFS 캡스톤 설계 및 실습 / 실시간 검품 이미지 촬영 앱  - 최우수팀 선정 (Team lead)_](https://github.com/user-attachments/assets/f984fc40-44a1-40a9-b841-6bc3fc683b20)
+  - [_2024-1 HUFS 캡스톤 설계 및 실습 / 실시간 검품 이미지 촬영 앱  - 최우수상 수상_](https://github.com/user-attachments/assets/f984fc40-44a1-40a9-b841-6bc3fc683b20)
 
  </p> 
 </details>
